@@ -1,0 +1,15 @@
+{
+  "repoName": "app-legal",
+  "owner": "lwei1992",
+  "customDomain": "",
+  "apps": [
+    {
+      "slug": "nexlomeny",
+      "appName": "Nexlomeny",
+      "privacyUrl": "https://lwei1992.github.io/app-legal/nexlomeny/privacy.html",
+      "customPrivacyUrl": null,
+      "updatedAt": "2026-08-18T19:14:41+00:00"
+    }
+  ],
+  "updatedAt": "2026-08-18T19:14:41+00:00"
+}
