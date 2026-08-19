@@ -28,10 +28,88 @@
     ul { padding-left: 1.25rem; }
     .muted { color: #64748b; }
     a { color: #0f766e; }
+    .site-header {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      margin-bottom: 28px;
+      padding-bottom: 16px;
+      border-bottom: 1px solid #e2e8f0;
+    }
+    .site-header .brand {
+      font-weight: 700;
+      color: #0f172a;
+      text-decoration: none;
+    }
+    .site-header nav {
+      display: flex;
+      gap: 16px;
+    }
+    .site-header nav a {
+      text-decoration: none;
+      color: #64748b;
+      font-size: 0.95rem;
+    }
+    .site-header nav a.active,
+    .site-header nav a:hover {
+      color: #0f766e;
+      font-weight: 600;
+    }
+    .page-heading .product-name {
+      margin: 0 0 4px;
+      color: #0f766e;
+      font-weight: 600;
+      font-size: 0.95rem;
+    }
+    .page-heading .lead {
+      margin-top: 8px;
+      color: #334155;
+    }
+    .contact-list {
+      margin: 0;
+    }
+    .contact-list > div {
+      display: grid;
+      grid-template-columns: 160px 1fr;
+      gap: 8px 16px;
+      padding: 10px 0;
+      border-bottom: 1px solid #f1f5f9;
+    }
+    .contact-list dt {
+      margin: 0;
+      color: #64748b;
+      font-weight: 500;
+    }
+    .contact-list dd {
+      margin: 0;
+      color: #0f172a;
+    }
+    .page-footer {
+      margin-top: 40px;
+      padding-top: 16px;
+      border-top: 1px solid #e2e8f0;
+      color: #94a3b8;
+      font-size: 0.875rem;
+    }
+    @media (max-width: 560px) {
+      .contact-list > div {
+        grid-template-columns: 1fr;
+        gap: 4px;
+      }
+    }
   </style>
 </head>
 <body>
   <main>
+    <header class="site-header">
+      <span class="brand">Roofslnex</span>
+      <nav aria-label="Legal pages">
+        <a class="active" href="privacy.html">Privacy</a>
+        <a href="support.html">Support</a>
+      </nav>
+    </header>
     <h1>Privacy Policy</h1>
     <p class="muted">Effective Date: August 19, 2026</p>
     <p class="muted">Contact: <a href="mailto:roofslnex@privacy.app">roofslnex@privacy.app</a></p>
