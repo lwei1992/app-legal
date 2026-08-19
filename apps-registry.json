@@ -19,7 +19,17 @@
       "supportUrl": "https://lwei1992.github.io/app-legal/roofslnex/support.html",
       "customSupportUrl": "https://legal.fadacai.christmas/roofslnex/support.html",
       "updatedAt": "2026-08-19T07:23:05+00:00"
+    },
+    {
+      "slug": "pathseafix",
+      "appName": "Pathseafix",
+      "privacyUrl": "https://lwei1992.github.io/app-legal/pathseafix/privacy.html",
+      "customPrivacyUrl": "https://legal.fadacai.christmas/pathseafix/privacy.html",
+      "hasSupportPage": true,
+      "supportUrl": "https://lwei1992.github.io/app-legal/pathseafix/support.html",
+      "customSupportUrl": "https://legal.fadacai.christmas/pathseafix/support.html",
+      "updatedAt": "2026-08-19T19:43:12+00:00"
     }
   ],
-  "updatedAt": "2026-08-19T07:23:05+00:00"
+  "updatedAt": "2026-08-19T19:43:12+00:00"
 }
