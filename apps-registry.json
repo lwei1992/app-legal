@@ -29,7 +29,17 @@
       "supportUrl": "https://lwei1992.github.io/app-legal/pathseafix/support.html",
       "customSupportUrl": "https://legal.fadacai.christmas/pathseafix/support.html",
       "updatedAt": "2026-08-19T19:43:12+00:00"
+    },
+    {
+      "slug": "frascionx",
+      "appName": "Frascionx",
+      "privacyUrl": "https://lwei1992.github.io/app-legal/frascionx/privacy.html",
+      "customPrivacyUrl": "https://legal.fadacai.christmas/frascionx/privacy.html",
+      "hasSupportPage": true,
+      "supportUrl": "https://lwei1992.github.io/app-legal/frascionx/support.html",
+      "customSupportUrl": "https://legal.fadacai.christmas/frascionx/support.html",
+      "updatedAt": "2026-08-20T18:51:49+00:00"
     }
   ],
-  "updatedAt": "2026-08-19T19:43:12+00:00"
+  "updatedAt": "2026-08-20T18:51:49+00:00"
 }
