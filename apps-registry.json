@@ -49,7 +49,17 @@
       "supportUrl": "https://lwei1992.github.io/app-legal/pauzgment/support.html",
       "customSupportUrl": "https://legal.fadacai.christmas/pauzgment/support.html",
       "updatedAt": "2026-08-20T19:19:24+00:00"
+    },
+    {
+      "slug": "grainbignele",
+      "appName": "Grainbignele",
+      "privacyUrl": "https://lwei1992.github.io/app-legal/grainbignele/privacy.html",
+      "customPrivacyUrl": "https://legal.fadacai.christmas/grainbignele/privacy.html",
+      "hasSupportPage": true,
+      "supportUrl": "https://lwei1992.github.io/app-legal/grainbignele/support.html",
+      "customSupportUrl": "https://legal.fadacai.christmas/grainbignele/support.html",
+      "updatedAt": "2026-08-21T13:42:22+00:00"
     }
   ],
-  "updatedAt": "2026-08-20T19:19:24+00:00"
+  "updatedAt": "2026-08-21T13:42:22+00:00"
 }
