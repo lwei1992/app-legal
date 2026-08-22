@@ -59,7 +59,17 @@
       "supportUrl": "https://lwei1992.github.io/app-legal/grainbignele/support.html",
       "customSupportUrl": "https://legal.fadacai.christmas/grainbignele/support.html",
       "updatedAt": "2026-08-21T13:42:22+00:00"
+    },
+    {
+      "slug": "mosyinex",
+      "appName": "Mosyinex",
+      "privacyUrl": "https://lwei1992.github.io/app-legal/mosyinex/privacy.html",
+      "customPrivacyUrl": "https://legal.fadacai.christmas/mosyinex/privacy.html",
+      "hasSupportPage": true,
+      "supportUrl": "https://lwei1992.github.io/app-legal/mosyinex/support.html",
+      "customSupportUrl": "https://legal.fadacai.christmas/mosyinex/support.html",
+      "updatedAt": "2026-08-22T05:40:46+00:00"
     }
   ],
-  "updatedAt": "2026-08-21T13:42:22+00:00"
+  "updatedAt": "2026-08-22T05:40:46+00:00"
 }
