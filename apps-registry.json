@@ -69,7 +69,17 @@
       "supportUrl": "https://lwei1992.github.io/app-legal/mosyinex/support.html",
       "customSupportUrl": "https://legal.fadacai.christmas/mosyinex/support.html",
       "updatedAt": "2026-08-22T05:40:46+00:00"
+    },
+    {
+      "slug": "shuinesy",
+      "appName": "Shuinesy",
+      "privacyUrl": "https://lwei1992.github.io/app-legal/shuinesy/privacy.html",
+      "customPrivacyUrl": "https://legal.fadacai.christmas/shuinesy/privacy.html",
+      "hasSupportPage": true,
+      "supportUrl": "https://lwei1992.github.io/app-legal/shuinesy/support.html",
+      "customSupportUrl": "https://legal.fadacai.christmas/shuinesy/support.html",
+      "updatedAt": "2026-08-22T07:15:45+00:00"
     }
   ],
-  "updatedAt": "2026-08-22T05:40:46+00:00"
+  "updatedAt": "2026-08-22T07:15:45+00:00"
 }
