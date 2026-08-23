@@ -79,7 +79,17 @@
       "supportUrl": "https://lwei1992.github.io/app-legal/shuinesy/support.html",
       "customSupportUrl": "https://legal.fadacai.christmas/shuinesy/support.html",
       "updatedAt": "2026-08-22T07:15:45+00:00"
+    },
+    {
+      "slug": "booknoteily",
+      "appName": "Booknoteily",
+      "privacyUrl": "https://lwei1992.github.io/app-legal/booknoteily/privacy.html",
+      "customPrivacyUrl": "https://legal.fadacai.christmas/booknoteily/privacy.html",
+      "hasSupportPage": true,
+      "supportUrl": "https://lwei1992.github.io/app-legal/booknoteily/support.html",
+      "customSupportUrl": "https://legal.fadacai.christmas/booknoteily/support.html",
+      "updatedAt": "2026-08-23T10:04:37+00:00"
     }
   ],
-  "updatedAt": "2026-08-22T07:15:45+00:00"
+  "updatedAt": "2026-08-23T10:04:37+00:00"
 }
