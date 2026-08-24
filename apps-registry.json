@@ -89,7 +89,17 @@
       "supportUrl": "https://lwei1992.github.io/app-legal/booknoteily/support.html",
       "customSupportUrl": "https://legal.fadacai.christmas/booknoteily/support.html",
       "updatedAt": "2026-08-23T10:04:37+00:00"
+    },
+    {
+      "slug": "enoamase",
+      "appName": "Enoamase",
+      "privacyUrl": "https://lwei1992.github.io/app-legal/enoamase/privacy.html",
+      "customPrivacyUrl": "https://legal.fadacai.christmas/enoamase/privacy.html",
+      "hasSupportPage": true,
+      "supportUrl": "https://lwei1992.github.io/app-legal/enoamase/support.html",
+      "customSupportUrl": "https://legal.fadacai.christmas/enoamase/support.html",
+      "updatedAt": "2026-08-24T17:46:37+00:00"
     }
   ],
-  "updatedAt": "2026-08-23T10:04:37+00:00"
+  "updatedAt": "2026-08-24T17:46:37+00:00"
 }
