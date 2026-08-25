@@ -109,7 +109,17 @@
       "supportUrl": "https://lwei1992.github.io/app-legal/sewlironly/support.html",
       "customSupportUrl": "https://legal.fadacai.christmas/sewlironly/support.html",
       "updatedAt": "2026-08-25T07:15:52+00:00"
+    },
+    {
+      "slug": "flonessy",
+      "appName": "Flonessy",
+      "privacyUrl": "https://lwei1992.github.io/app-legal/flonessy/privacy.html",
+      "customPrivacyUrl": "https://legal.fadacai.christmas/flonessy/privacy.html",
+      "hasSupportPage": true,
+      "supportUrl": "https://lwei1992.github.io/app-legal/flonessy/support.html",
+      "customSupportUrl": "https://legal.fadacai.christmas/flonessy/support.html",
+      "updatedAt": "2026-08-25T09:58:43+00:00"
     }
   ],
-  "updatedAt": "2026-08-25T07:15:52+00:00"
+  "updatedAt": "2026-08-25T09:58:43+00:00"
 }
