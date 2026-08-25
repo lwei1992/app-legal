@@ -119,7 +119,17 @@
       "supportUrl": "https://lwei1992.github.io/app-legal/flonessy/support.html",
       "customSupportUrl": "https://legal.fadacai.christmas/flonessy/support.html",
       "updatedAt": "2026-08-25T09:58:43+00:00"
+    },
+    {
+      "slug": "dcsorveie",
+      "appName": "Dcsorveie",
+      "privacyUrl": "https://lwei1992.github.io/app-legal/dcsorveie/privacy.html",
+      "customPrivacyUrl": "https://legal.fadacai.christmas/dcsorveie/privacy.html",
+      "hasSupportPage": true,
+      "supportUrl": "https://lwei1992.github.io/app-legal/dcsorveie/support.html",
+      "customSupportUrl": "https://legal.fadacai.christmas/dcsorveie/support.html",
+      "updatedAt": "2026-08-25T18:26:24+00:00"
     }
   ],
-  "updatedAt": "2026-08-25T09:58:43+00:00"
+  "updatedAt": "2026-08-25T18:26:24+00:00"
 }
