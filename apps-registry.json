@@ -99,7 +99,17 @@
       "supportUrl": "https://lwei1992.github.io/app-legal/enoamase/support.html",
       "customSupportUrl": "https://legal.fadacai.christmas/enoamase/support.html",
       "updatedAt": "2026-08-24T17:46:37+00:00"
+    },
+    {
+      "slug": "sewlironly",
+      "appName": "Sewlironly",
+      "privacyUrl": "https://lwei1992.github.io/app-legal/sewlironly/privacy.html",
+      "customPrivacyUrl": "https://legal.fadacai.christmas/sewlironly/privacy.html",
+      "hasSupportPage": true,
+      "supportUrl": "https://lwei1992.github.io/app-legal/sewlironly/support.html",
+      "customSupportUrl": "https://legal.fadacai.christmas/sewlironly/support.html",
+      "updatedAt": "2026-08-25T07:15:52+00:00"
     }
   ],
-  "updatedAt": "2026-08-24T17:46:37+00:00"
+  "updatedAt": "2026-08-25T07:15:52+00:00"
 }
