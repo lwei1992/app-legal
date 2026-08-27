@@ -129,7 +129,17 @@
       "supportUrl": "https://lwei1992.github.io/app-legal/dcsorveie/support.html",
       "customSupportUrl": "https://legal.fadacai.christmas/dcsorveie/support.html",
       "updatedAt": "2026-08-25T18:26:24+00:00"
+    },
+    {
+      "slug": "anlinex",
+      "appName": "Anlinex",
+      "privacyUrl": "https://lwei1992.github.io/app-legal/anlinex/privacy.html",
+      "customPrivacyUrl": "https://legal.fadacai.christmas/anlinex/privacy.html",
+      "hasSupportPage": true,
+      "supportUrl": "https://lwei1992.github.io/app-legal/anlinex/support.html",
+      "customSupportUrl": "https://legal.fadacai.christmas/anlinex/support.html",
+      "updatedAt": "2026-08-27T07:56:03+00:00"
     }
   ],
-  "updatedAt": "2026-08-25T18:26:24+00:00"
+  "updatedAt": "2026-08-27T07:56:03+00:00"
 }
