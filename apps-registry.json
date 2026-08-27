@@ -149,7 +149,17 @@
       "supportUrl": "https://lwei1992.github.io/app-legal/poembers/support.html",
       "customSupportUrl": "https://legal.fadacai.christmas/poembers/support.html",
       "updatedAt": "2026-08-27T09:12:17+00:00"
+    },
+    {
+      "slug": "gmengtx",
+      "appName": "Gmengtx",
+      "privacyUrl": "https://lwei1992.github.io/app-legal/gmengtx/privacy.html",
+      "customPrivacyUrl": "https://legal.fadacai.christmas/gmengtx/privacy.html",
+      "hasSupportPage": true,
+      "supportUrl": "https://lwei1992.github.io/app-legal/gmengtx/support.html",
+      "customSupportUrl": "https://legal.fadacai.christmas/gmengtx/support.html",
+      "updatedAt": "2026-08-27T17:04:40+00:00"
     }
   ],
-  "updatedAt": "2026-08-27T09:12:17+00:00"
+  "updatedAt": "2026-08-27T17:04:40+00:00"
 }
