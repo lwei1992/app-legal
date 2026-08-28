@@ -169,7 +169,17 @@
       "supportUrl": "https://lwei1992.github.io/app-legal/menxliy/support.html",
       "customSupportUrl": "https://legal.fadacai.christmas/menxliy/support.html",
       "updatedAt": "2026-08-27T19:04:27+00:00"
+    },
+    {
+      "slug": "nilenzs",
+      "appName": "Nilenzs",
+      "privacyUrl": "https://lwei1992.github.io/app-legal/nilenzs/privacy.html",
+      "customPrivacyUrl": "https://legal.fadacai.christmas/nilenzs/privacy.html",
+      "hasSupportPage": true,
+      "supportUrl": "https://lwei1992.github.io/app-legal/nilenzs/support.html",
+      "customSupportUrl": "https://legal.fadacai.christmas/nilenzs/support.html",
+      "updatedAt": "2026-08-28T05:22:11+00:00"
     }
   ],
-  "updatedAt": "2026-08-27T19:04:27+00:00"
+  "updatedAt": "2026-08-28T05:22:11+00:00"
 }
