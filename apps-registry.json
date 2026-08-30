@@ -179,7 +179,17 @@
       "supportUrl": "https://lwei1992.github.io/app-legal/nilenzs/support.html",
       "customSupportUrl": "https://legal.fadacai.christmas/nilenzs/support.html",
       "updatedAt": "2026-08-28T05:22:11+00:00"
+    },
+    {
+      "slug": "show-fire-plan",
+      "appName": "Show Fire Plan",
+      "privacyUrl": "https://lwei1992.github.io/app-legal/show-fire-plan/privacy.html",
+      "customPrivacyUrl": "https://legal.fadacai.christmas/show-fire-plan/privacy.html",
+      "hasSupportPage": true,
+      "supportUrl": "https://lwei1992.github.io/app-legal/show-fire-plan/support.html",
+      "customSupportUrl": "https://legal.fadacai.christmas/show-fire-plan/support.html",
+      "updatedAt": "2026-08-30T21:49:20+00:00"
     }
   ],
-  "updatedAt": "2026-08-28T05:22:11+00:00"
+  "updatedAt": "2026-08-30T21:49:20+00:00"
 }
