@@ -199,7 +199,17 @@
       "supportUrl": "https://lwei1992.github.io/app-legal/showfireplan/support.html",
       "customSupportUrl": "https://legal.fadacai.christmas/showfireplan/support.html",
       "updatedAt": "2026-08-30T21:53:19+00:00"
+    },
+    {
+      "slug": "shootpenos",
+      "appName": "Shootpenos",
+      "privacyUrl": "https://lwei1992.github.io/app-legal/shootpenos/privacy.html",
+      "customPrivacyUrl": "https://legal.fadacai.christmas/shootpenos/privacy.html",
+      "hasSupportPage": true,
+      "supportUrl": "https://lwei1992.github.io/app-legal/shootpenos/support.html",
+      "customSupportUrl": "https://legal.fadacai.christmas/shootpenos/support.html",
+      "updatedAt": "2026-09-01T14:52:24+00:00"
     }
   ],
-  "updatedAt": "2026-08-30T21:53:19+00:00"
+  "updatedAt": "2026-09-01T14:52:24+00:00"
 }
