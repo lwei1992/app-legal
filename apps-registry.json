@@ -229,7 +229,17 @@
       "supportUrl": "https://lwei1992.github.io/app-legal/mopowzer/support.html",
       "customSupportUrl": "https://legal.fadacai.christmas/mopowzer/support.html",
       "updatedAt": "2026-09-01T18:32:03+00:00"
+    },
+    {
+      "slug": "eximemer",
+      "appName": "Eximemer",
+      "privacyUrl": "https://lwei1992.github.io/app-legal/eximemer/privacy.html",
+      "customPrivacyUrl": "https://legal.fadacai.christmas/eximemer/privacy.html",
+      "hasSupportPage": true,
+      "supportUrl": "https://lwei1992.github.io/app-legal/eximemer/support.html",
+      "customSupportUrl": "https://legal.fadacai.christmas/eximemer/support.html",
+      "updatedAt": "2026-09-01T19:41:48+00:00"
     }
   ],
-  "updatedAt": "2026-09-01T18:32:03+00:00"
+  "updatedAt": "2026-09-01T19:41:48+00:00"
 }
