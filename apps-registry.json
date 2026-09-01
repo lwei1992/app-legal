@@ -219,7 +219,17 @@
       "supportUrl": "https://lwei1992.github.io/app-legal/hireordiynext/support.html",
       "customSupportUrl": "https://legal.fadacai.christmas/hireordiynext/support.html",
       "updatedAt": "2026-09-01T16:59:16+00:00"
+    },
+    {
+      "slug": "mopowzer",
+      "appName": "Mopowzer",
+      "privacyUrl": "https://lwei1992.github.io/app-legal/mopowzer/privacy.html",
+      "customPrivacyUrl": "https://legal.fadacai.christmas/mopowzer/privacy.html",
+      "hasSupportPage": true,
+      "supportUrl": "https://lwei1992.github.io/app-legal/mopowzer/support.html",
+      "customSupportUrl": "https://legal.fadacai.christmas/mopowzer/support.html",
+      "updatedAt": "2026-09-01T18:32:03+00:00"
     }
   ],
-  "updatedAt": "2026-09-01T16:59:16+00:00"
+  "updatedAt": "2026-09-01T18:32:03+00:00"
 }
