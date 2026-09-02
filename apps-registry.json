@@ -249,7 +249,17 @@
       "supportUrl": "https://lwei1992.github.io/app-legal/csvfitterx/support.html",
       "customSupportUrl": "https://legal.fadacai.christmas/csvfitterx/support.html",
       "updatedAt": "2026-09-02T04:11:38+00:00"
+    },
+    {
+      "slug": "roompfit",
+      "appName": "Roompfit",
+      "privacyUrl": "https://lwei1992.github.io/app-legal/roompfit/privacy.html",
+      "customPrivacyUrl": "https://legal.fadacai.christmas/roompfit/privacy.html",
+      "hasSupportPage": true,
+      "supportUrl": "https://lwei1992.github.io/app-legal/roompfit/support.html",
+      "customSupportUrl": "https://legal.fadacai.christmas/roompfit/support.html",
+      "updatedAt": "2026-09-02T07:28:55+00:00"
     }
   ],
-  "updatedAt": "2026-09-02T04:11:38+00:00"
+  "updatedAt": "2026-09-02T07:28:55+00:00"
 }
