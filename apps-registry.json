@@ -239,7 +239,17 @@
       "supportUrl": "https://lwei1992.github.io/app-legal/eximemer/support.html",
       "customSupportUrl": "https://legal.fadacai.christmas/eximemer/support.html",
       "updatedAt": "2026-09-01T19:41:48+00:00"
+    },
+    {
+      "slug": "csvfitterx",
+      "appName": "Csvfitterx",
+      "privacyUrl": "https://lwei1992.github.io/app-legal/csvfitterx/privacy.html",
+      "customPrivacyUrl": "https://legal.fadacai.christmas/csvfitterx/privacy.html",
+      "hasSupportPage": true,
+      "supportUrl": "https://lwei1992.github.io/app-legal/csvfitterx/support.html",
+      "customSupportUrl": "https://legal.fadacai.christmas/csvfitterx/support.html",
+      "updatedAt": "2026-09-02T04:11:38+00:00"
     }
   ],
-  "updatedAt": "2026-09-01T19:41:48+00:00"
+  "updatedAt": "2026-09-02T04:11:38+00:00"
 }
