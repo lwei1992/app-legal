@@ -269,7 +269,17 @@
       "supportUrl": "https://lwei1992.github.io/app-legal/booneeds/support.html",
       "customSupportUrl": "https://legal.fadacai.christmas/booneeds/support.html",
       "updatedAt": "2026-09-03T05:32:34+00:00"
+    },
+    {
+      "slug": "xiominso",
+      "appName": "Xiominso",
+      "privacyUrl": "https://lwei1992.github.io/app-legal/xiominso/privacy.html",
+      "customPrivacyUrl": "https://legal.fadacai.christmas/xiominso/privacy.html",
+      "hasSupportPage": true,
+      "supportUrl": "https://lwei1992.github.io/app-legal/xiominso/support.html",
+      "customSupportUrl": "https://legal.fadacai.christmas/xiominso/support.html",
+      "updatedAt": "2026-09-03T08:28:25+00:00"
     }
   ],
-  "updatedAt": "2026-09-03T05:32:34+00:00"
+  "updatedAt": "2026-09-03T08:28:25+00:00"
 }
