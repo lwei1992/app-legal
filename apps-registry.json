@@ -289,7 +289,17 @@
       "supportUrl": "https://lwei1992.github.io/app-legal/sontnxy/support.html",
       "customSupportUrl": "https://legal.fadacai.christmas/sontnxy/support.html",
       "updatedAt": "2026-09-04T05:27:17+00:00"
+    },
+    {
+      "slug": "starfallxx",
+      "appName": "StarFallxx",
+      "privacyUrl": "https://lwei1992.github.io/app-legal/starfallxx/privacy.html",
+      "customPrivacyUrl": "https://legal.fadacai.christmas/starfallxx/privacy.html",
+      "hasSupportPage": true,
+      "supportUrl": "https://lwei1992.github.io/app-legal/starfallxx/support.html",
+      "customSupportUrl": "https://legal.fadacai.christmas/starfallxx/support.html",
+      "updatedAt": "2026-09-04T09:39:00+00:00"
     }
   ],
-  "updatedAt": "2026-09-04T05:27:17+00:00"
+  "updatedAt": "2026-09-04T09:39:00+00:00"
 }
