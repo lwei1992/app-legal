@@ -299,7 +299,17 @@
       "supportUrl": "https://lwei1992.github.io/app-legal/starfallxx/support.html",
       "customSupportUrl": "https://legal.fadacai.christmas/starfallxx/support.html",
       "updatedAt": "2026-09-04T09:39:00+00:00"
+    },
+    {
+      "slug": "happefuons",
+      "appName": "Happefuons",
+      "privacyUrl": "https://lwei1992.github.io/app-legal/happefuons/privacy.html",
+      "customPrivacyUrl": "https://legal.fadacai.christmas/happefuons/privacy.html",
+      "hasSupportPage": true,
+      "supportUrl": "https://lwei1992.github.io/app-legal/happefuons/support.html",
+      "customSupportUrl": "https://legal.fadacai.christmas/happefuons/support.html",
+      "updatedAt": "2026-09-07T04:59:26+00:00"
     }
   ],
-  "updatedAt": "2026-09-04T09:39:00+00:00"
+  "updatedAt": "2026-09-07T04:59:26+00:00"
 }
