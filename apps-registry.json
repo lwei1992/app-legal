@@ -319,7 +319,17 @@
       "supportUrl": "https://lwei1992.github.io/app-legal/shoesox/support.html",
       "customSupportUrl": "https://legal.fadacai.christmas/shoesox/support.html",
       "updatedAt": "2026-09-07T08:40:32+00:00"
+    },
+    {
+      "slug": "sonttines",
+      "appName": "Sonttines",
+      "privacyUrl": "https://lwei1992.github.io/app-legal/sonttines/privacy.html",
+      "customPrivacyUrl": "https://legal.fadacai.christmas/sonttines/privacy.html",
+      "hasSupportPage": true,
+      "supportUrl": "https://lwei1992.github.io/app-legal/sonttines/support.html",
+      "customSupportUrl": "https://legal.fadacai.christmas/sonttines/support.html",
+      "updatedAt": "2026-09-07T15:55:04+00:00"
     }
   ],
-  "updatedAt": "2026-09-07T08:40:32+00:00"
+  "updatedAt": "2026-09-07T15:55:04+00:00"
 }
