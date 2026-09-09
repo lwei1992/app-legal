@@ -349,7 +349,17 @@
       "supportUrl": "https://lwei1992.github.io/app-legal/fallstarnex/support.html",
       "customSupportUrl": "https://legal.fadacai.christmas/fallstarnex/support.html",
       "updatedAt": "2026-09-07T19:07:43+00:00"
+    },
+    {
+      "slug": "benchminxs",
+      "appName": "BenchMinxs",
+      "privacyUrl": "https://lwei1992.github.io/app-legal/benchminxs/privacy.html",
+      "customPrivacyUrl": "https://legal.fadacai.christmas/benchminxs/privacy.html",
+      "hasSupportPage": true,
+      "supportUrl": "https://lwei1992.github.io/app-legal/benchminxs/support.html",
+      "customSupportUrl": "https://legal.fadacai.christmas/benchminxs/support.html",
+      "updatedAt": "2026-09-09T03:10:08+00:00"
     }
   ],
-  "updatedAt": "2026-09-07T19:07:43+00:00"
+  "updatedAt": "2026-09-09T03:10:08+00:00"
 }
