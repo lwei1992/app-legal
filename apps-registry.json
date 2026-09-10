@@ -369,7 +369,17 @@
       "supportUrl": "https://lwei1992.github.io/app-legal/flrunemall/support.html",
       "customSupportUrl": "https://legal.fadacai.christmas/flrunemall/support.html",
       "updatedAt": "2026-09-09T05:11:29+00:00"
+    },
+    {
+      "slug": "nutsgoos",
+      "appName": "NutsGoos",
+      "privacyUrl": "https://lwei1992.github.io/app-legal/nutsgoos/privacy.html",
+      "customPrivacyUrl": "https://legal.fadacai.christmas/nutsgoos/privacy.html",
+      "hasSupportPage": true,
+      "supportUrl": "https://lwei1992.github.io/app-legal/nutsgoos/support.html",
+      "customSupportUrl": "https://legal.fadacai.christmas/nutsgoos/support.html",
+      "updatedAt": "2026-09-10T04:58:03+00:00"
     }
   ],
-  "updatedAt": "2026-09-09T05:11:29+00:00"
+  "updatedAt": "2026-09-10T04:58:03+00:00"
 }
