@@ -389,7 +389,17 @@
       "supportUrl": "https://lwei1992.github.io/app-legal/nutsfuss/support.html",
       "customSupportUrl": "https://legal.fadacai.christmas/nutsfuss/support.html",
       "updatedAt": "2026-09-10T05:29:33+00:00"
+    },
+    {
+      "slug": "yoopenxs",
+      "appName": "Yoopenxs",
+      "privacyUrl": "https://lwei1992.github.io/app-legal/yoopenxs/privacy.html",
+      "customPrivacyUrl": "https://legal.fadacai.christmas/yoopenxs/privacy.html",
+      "hasSupportPage": true,
+      "supportUrl": "https://lwei1992.github.io/app-legal/yoopenxs/support.html",
+      "customSupportUrl": "https://legal.fadacai.christmas/yoopenxs/support.html",
+      "updatedAt": "2026-09-11T03:02:48+00:00"
     }
   ],
-  "updatedAt": "2026-09-10T05:29:33+00:00"
+  "updatedAt": "2026-09-11T03:02:48+00:00"
 }
