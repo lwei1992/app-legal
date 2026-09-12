@@ -399,7 +399,17 @@
       "supportUrl": "https://lwei1992.github.io/app-legal/yoopenxs/support.html",
       "customSupportUrl": "https://legal.fadacai.christmas/yoopenxs/support.html",
       "updatedAt": "2026-09-11T03:02:48+00:00"
+    },
+    {
+      "slug": "drapipefit",
+      "appName": "DraPipefit",
+      "privacyUrl": "https://lwei1992.github.io/app-legal/drapipefit/privacy.html",
+      "customPrivacyUrl": "https://legal.fadacai.christmas/drapipefit/privacy.html",
+      "hasSupportPage": true,
+      "supportUrl": "https://lwei1992.github.io/app-legal/drapipefit/support.html",
+      "customSupportUrl": "https://legal.fadacai.christmas/drapipefit/support.html",
+      "updatedAt": "2026-09-12T02:52:48+00:00"
     }
   ],
-  "updatedAt": "2026-09-11T03:02:48+00:00"
+  "updatedAt": "2026-09-12T02:52:48+00:00"
 }
