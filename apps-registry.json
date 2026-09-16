@@ -419,7 +419,17 @@
       "supportUrl": "https://lwei1992.github.io/app-legal/my-app/support.html",
       "customSupportUrl": "https://legal.fadacai.christmas/my-app/support.html",
       "updatedAt": "2026-09-13T13:28:12+00:00"
+    },
+    {
+      "slug": "periodmisiy",
+      "appName": "PeriodMisiy",
+      "privacyUrl": "https://lwei1992.github.io/app-legal/periodmisiy/privacy.html",
+      "customPrivacyUrl": null,
+      "hasSupportPage": true,
+      "supportUrl": "https://lwei1992.github.io/app-legal/periodmisiy/support.html",
+      "customSupportUrl": null,
+      "updatedAt": "2026-09-16T16:21:01+00:00"
     }
   ],
-  "updatedAt": "2026-09-13T13:28:12+00:00"
+  "updatedAt": "2026-09-16T16:21:01+00:00"
 }
