@@ -429,7 +429,17 @@
       "supportUrl": "https://lwei1992.github.io/app-legal/periodmisiy/support.html",
       "customSupportUrl": "https://legal.fadacai.christmas/periodmisiy/support.html",
       "updatedAt": "2026-09-16T16:21:36+00:00"
+    },
+    {
+      "slug": "campnoss",
+      "appName": "CampNoss",
+      "privacyUrl": "https://lwei1992.github.io/app-legal/campnoss/privacy.html",
+      "customPrivacyUrl": "https://legal.fadacai.christmas/campnoss/privacy.html",
+      "hasSupportPage": true,
+      "supportUrl": "https://lwei1992.github.io/app-legal/campnoss/support.html",
+      "customSupportUrl": "https://legal.fadacai.christmas/campnoss/support.html",
+      "updatedAt": "2026-09-17T03:45:18+00:00"
     }
   ],
-  "updatedAt": "2026-09-16T16:21:36+00:00"
+  "updatedAt": "2026-09-17T03:45:18+00:00"
 }
