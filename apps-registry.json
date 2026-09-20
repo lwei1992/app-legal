@@ -449,7 +449,17 @@
       "supportUrl": "https://lwei1992.github.io/app-legal/moodsuun/support.html",
       "customSupportUrl": "https://legal.fadacai.christmas/moodsuun/support.html",
       "updatedAt": "2026-09-20T04:06:48+00:00"
+    },
+    {
+      "slug": "doungoox",
+      "appName": "Doungoox",
+      "privacyUrl": "https://lwei1992.github.io/app-legal/doungoox/privacy.html",
+      "customPrivacyUrl": null,
+      "hasSupportPage": true,
+      "supportUrl": "https://lwei1992.github.io/app-legal/doungoox/support.html",
+      "customSupportUrl": null,
+      "updatedAt": "2026-09-20T15:47:38+00:00"
     }
   ],
-  "updatedAt": "2026-09-20T04:06:48+00:00"
+  "updatedAt": "2026-09-20T15:47:38+00:00"
 }
