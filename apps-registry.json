@@ -459,7 +459,17 @@
       "supportUrl": "https://lwei1992.github.io/app-legal/doungoox/support.html",
       "customSupportUrl": "https://legal.fadacai.christmas/doungoox/support.html",
       "updatedAt": "2026-09-20T15:48:02+00:00"
+    },
+    {
+      "slug": "biketmins",
+      "appName": "biketmins",
+      "privacyUrl": "https://lwei1992.github.io/app-legal/biketmins/privacy.html",
+      "customPrivacyUrl": "https://legal.fadacai.christmas/biketmins/privacy.html",
+      "hasSupportPage": true,
+      "supportUrl": "https://lwei1992.github.io/app-legal/biketmins/support.html",
+      "customSupportUrl": "https://legal.fadacai.christmas/biketmins/support.html",
+      "updatedAt": "2026-09-20T16:57:16+00:00"
     }
   ],
-  "updatedAt": "2026-09-20T15:48:02+00:00"
+  "updatedAt": "2026-09-20T16:57:16+00:00"
 }
