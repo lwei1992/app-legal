@@ -469,7 +469,17 @@
       "supportUrl": "https://lwei1992.github.io/app-legal/biketmins/support.html",
       "customSupportUrl": "https://legal.fadacai.christmas/biketmins/support.html",
       "updatedAt": "2026-09-20T16:57:16+00:00"
+    },
+    {
+      "slug": "lifespanlets",
+      "appName": "LifespanLets",
+      "privacyUrl": "https://lwei1992.github.io/app-legal/lifespanlets/privacy.html",
+      "customPrivacyUrl": "https://legal.fadacai.christmas/lifespanlets/privacy.html",
+      "hasSupportPage": true,
+      "supportUrl": "https://lwei1992.github.io/app-legal/lifespanlets/support.html",
+      "customSupportUrl": "https://legal.fadacai.christmas/lifespanlets/support.html",
+      "updatedAt": "2026-09-21T11:45:47+00:00"
     }
   ],
-  "updatedAt": "2026-09-20T16:57:16+00:00"
+  "updatedAt": "2026-09-21T11:45:47+00:00"
 }
