@@ -479,7 +479,17 @@
       "supportUrl": "https://lwei1992.github.io/app-legal/lifespanlets/support.html",
       "customSupportUrl": "https://legal.fadacai.christmas/lifespanlets/support.html",
       "updatedAt": "2026-09-21T11:45:47+00:00"
+    },
+    {
+      "slug": "cutensy",
+      "appName": "Cutensy",
+      "privacyUrl": "https://lwei1992.github.io/app-legal/cutensy/privacy.html",
+      "customPrivacyUrl": "https://legal.fadacai.christmas/cutensy/privacy.html",
+      "hasSupportPage": true,
+      "supportUrl": "https://lwei1992.github.io/app-legal/cutensy/support.html",
+      "customSupportUrl": "https://legal.fadacai.christmas/cutensy/support.html",
+      "updatedAt": "2026-09-21T15:56:06+00:00"
     }
   ],
-  "updatedAt": "2026-09-21T11:45:47+00:00"
+  "updatedAt": "2026-09-21T15:56:06+00:00"
 }
