@@ -509,7 +509,17 @@
       "supportUrl": "https://lwei1992.github.io/app-legal/crestwale/support.html",
       "customSupportUrl": "https://legal.fadacai.christmas/crestwale/support.html",
       "updatedAt": "2026-09-23T08:09:10+00:00"
+    },
+    {
+      "slug": "musicalness",
+      "appName": "MusicalNess",
+      "privacyUrl": "https://lwei1992.github.io/app-legal/musicalness/privacy.html",
+      "customPrivacyUrl": "https://legal.fadacai.christmas/musicalness/privacy.html",
+      "hasSupportPage": true,
+      "supportUrl": "https://lwei1992.github.io/app-legal/musicalness/support.html",
+      "customSupportUrl": "https://legal.fadacai.christmas/musicalness/support.html",
+      "updatedAt": "2026-09-23T20:09:55+00:00"
     }
   ],
-  "updatedAt": "2026-09-23T08:09:10+00:00"
+  "updatedAt": "2026-09-23T20:09:55+00:00"
 }
