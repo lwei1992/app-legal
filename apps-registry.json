@@ -499,7 +499,17 @@
       "supportUrl": "https://lwei1992.github.io/app-legal/stuborphan/support.html",
       "customSupportUrl": "https://legal.fadacai.christmas/stuborphan/support.html",
       "updatedAt": "2026-09-22T17:45:27+00:00"
+    },
+    {
+      "slug": "crestwale",
+      "appName": "CrestWale",
+      "privacyUrl": "https://lwei1992.github.io/app-legal/crestwale/privacy.html",
+      "customPrivacyUrl": "https://legal.fadacai.christmas/crestwale/privacy.html",
+      "hasSupportPage": true,
+      "supportUrl": "https://lwei1992.github.io/app-legal/crestwale/support.html",
+      "customSupportUrl": "https://legal.fadacai.christmas/crestwale/support.html",
+      "updatedAt": "2026-09-23T08:09:10+00:00"
     }
   ],
-  "updatedAt": "2026-09-22T17:45:27+00:00"
+  "updatedAt": "2026-09-23T08:09:10+00:00"
 }
