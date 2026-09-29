@@ -549,7 +549,17 @@
       "supportUrl": "https://lwei1992.github.io/app-legal/kitchenjoss/support.html",
       "customSupportUrl": "https://legal.fadacai.christmas/kitchenjoss/support.html",
       "updatedAt": "2026-09-29T10:05:53+00:00"
+    },
+    {
+      "slug": "mangoprime",
+      "appName": "MangoPrime",
+      "privacyUrl": "https://lwei1992.github.io/app-legal/mangoprime/privacy.html",
+      "customPrivacyUrl": "https://legal.fadacai.christmas/mangoprime/privacy.html",
+      "hasSupportPage": true,
+      "supportUrl": "https://lwei1992.github.io/app-legal/mangoprime/support.html",
+      "customSupportUrl": "https://legal.fadacai.christmas/mangoprime/support.html",
+      "updatedAt": "2026-09-29T21:02:32+00:00"
     }
   ],
-  "updatedAt": "2026-09-29T10:05:53+00:00"
+  "updatedAt": "2026-09-29T21:02:32+00:00"
 }
