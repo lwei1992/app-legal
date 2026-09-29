@@ -529,7 +529,17 @@
       "supportUrl": "https://lwei1992.github.io/app-legal/toothgaas/support.html",
       "customSupportUrl": "https://legal.fadacai.christmas/toothgaas/support.html",
       "updatedAt": "2026-09-27T07:32:29+00:00"
+    },
+    {
+      "slug": "newholisn",
+      "appName": "NewHolisn",
+      "privacyUrl": "https://lwei1992.github.io/app-legal/newholisn/privacy.html",
+      "customPrivacyUrl": "https://legal.fadacai.christmas/newholisn/privacy.html",
+      "hasSupportPage": true,
+      "supportUrl": "https://lwei1992.github.io/app-legal/newholisn/support.html",
+      "customSupportUrl": "https://legal.fadacai.christmas/newholisn/support.html",
+      "updatedAt": "2026-09-29T07:51:55+00:00"
     }
   ],
-  "updatedAt": "2026-09-27T07:32:29+00:00"
+  "updatedAt": "2026-09-29T07:51:55+00:00"
 }
