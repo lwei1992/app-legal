@@ -569,7 +569,17 @@
       "supportUrl": "https://lwei1992.github.io/app-legal/lycheeprime/support.html",
       "customSupportUrl": "https://legal.fadacai.christmas/lycheeprime/support.html",
       "updatedAt": "2026-09-29T21:34:56+00:00"
+    },
+    {
+      "slug": "moofins",
+      "appName": "MooFins",
+      "privacyUrl": "https://lwei1992.github.io/app-legal/moofins/privacy.html",
+      "customPrivacyUrl": "https://legal.fadacai.christmas/moofins/privacy.html",
+      "hasSupportPage": true,
+      "supportUrl": "https://lwei1992.github.io/app-legal/moofins/support.html",
+      "customSupportUrl": "https://legal.fadacai.christmas/moofins/support.html",
+      "updatedAt": "2026-09-30T16:20:15+00:00"
     }
   ],
-  "updatedAt": "2026-09-29T21:34:56+00:00"
+  "updatedAt": "2026-09-30T16:20:15+00:00"
 }
