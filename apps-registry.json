@@ -579,7 +579,17 @@
       "supportUrl": "https://lwei1992.github.io/app-legal/moofins/support.html",
       "customSupportUrl": "https://legal.fadacai.christmas/moofins/support.html",
       "updatedAt": "2026-09-30T16:20:15+00:00"
+    },
+    {
+      "slug": "li-pin",
+      "appName": "梨子优品",
+      "privacyUrl": "https://lwei1992.github.io/app-legal/li-pin/privacy.html",
+      "customPrivacyUrl": null,
+      "hasSupportPage": true,
+      "supportUrl": "https://lwei1992.github.io/app-legal/li-pin/support.html",
+      "customSupportUrl": null,
+      "updatedAt": "2026-10-01T08:37:15+00:00"
     }
   ],
-  "updatedAt": "2026-09-30T16:20:15+00:00"
+  "updatedAt": "2026-10-01T08:37:15+00:00"
 }
