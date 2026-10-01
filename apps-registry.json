@@ -584,12 +584,12 @@
       "slug": "li-pin",
       "appName": "梨子优品",
       "privacyUrl": "https://lwei1992.github.io/app-legal/li-pin/privacy.html",
-      "customPrivacyUrl": null,
+      "customPrivacyUrl": "https://legal.fadacai.christmas/li-pin/privacy.html",
       "hasSupportPage": true,
       "supportUrl": "https://lwei1992.github.io/app-legal/li-pin/support.html",
-      "customSupportUrl": null,
-      "updatedAt": "2026-10-01T08:37:15+00:00"
+      "customSupportUrl": "https://legal.fadacai.christmas/li-pin/support.html",
+      "updatedAt": "2026-10-01T08:37:47+00:00"
     }
   ],
-  "updatedAt": "2026-10-01T08:37:15+00:00"
+  "updatedAt": "2026-10-01T08:37:47+00:00"
 }
