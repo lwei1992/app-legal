@@ -589,7 +589,17 @@
       "supportUrl": "https://lwei1992.github.io/app-legal/li-pin/support.html",
       "customSupportUrl": "https://legal.fadacai.christmas/li-pin/support.html",
       "updatedAt": "2026-10-01T08:37:47+00:00"
+    },
+    {
+      "slug": "qingqing-pin",
+      "appName": "青青优品",
+      "privacyUrl": "https://lwei1992.github.io/app-legal/qingqing-pin/privacy.html",
+      "customPrivacyUrl": "https://legal.fadacai.christmas/qingqing-pin/privacy.html",
+      "hasSupportPage": true,
+      "supportUrl": "https://lwei1992.github.io/app-legal/qingqing-pin/support.html",
+      "customSupportUrl": "https://legal.fadacai.christmas/qingqing-pin/support.html",
+      "updatedAt": "2026-10-08T05:11:02+00:00"
     }
   ],
-  "updatedAt": "2026-10-01T08:37:47+00:00"
+  "updatedAt": "2026-10-08T05:11:02+00:00"
 }
