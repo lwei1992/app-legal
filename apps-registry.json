@@ -599,7 +599,17 @@
       "supportUrl": "https://lwei1992.github.io/app-legal/qingqing-pin/support.html",
       "customSupportUrl": "https://legal.fadacai.christmas/qingqing-pin/support.html",
       "updatedAt": "2026-10-08T05:11:02+00:00"
+    },
+    {
+      "slug": "pomeg-slot-neo",
+      "appName": "Pomeg Slot Neo",
+      "privacyUrl": "https://lwei1992.github.io/app-legal/pomeg-slot-neo/privacy.html",
+      "customPrivacyUrl": "https://legal.fadacai.christmas/pomeg-slot-neo/privacy.html",
+      "hasSupportPage": true,
+      "supportUrl": "https://lwei1992.github.io/app-legal/pomeg-slot-neo/support.html",
+      "customSupportUrl": "https://legal.fadacai.christmas/pomeg-slot-neo/support.html",
+      "updatedAt": "2026-10-12T04:30:08+00:00"
     }
   ],
-  "updatedAt": "2026-10-08T05:11:02+00:00"
+  "updatedAt": "2026-10-12T04:30:08+00:00"
 }
