@@ -609,7 +609,17 @@
       "supportUrl": "https://lwei1992.github.io/app-legal/pomeg-slot-neo/support.html",
       "customSupportUrl": "https://legal.fadacai.christmas/pomeg-slot-neo/support.html",
       "updatedAt": "2026-10-12T04:30:08+00:00"
+    },
+    {
+      "slug": "weddingfolio",
+      "appName": "WeddingFolio",
+      "privacyUrl": "https://lwei1992.github.io/app-legal/weddingfolio/privacy.html",
+      "customPrivacyUrl": null,
+      "hasSupportPage": true,
+      "supportUrl": "https://lwei1992.github.io/app-legal/weddingfolio/support.html",
+      "customSupportUrl": null,
+      "updatedAt": "2026-11-18T03:28:55+00:00"
     }
   ],
-  "updatedAt": "2026-10-12T04:30:08+00:00"
+  "updatedAt": "2026-11-18T03:28:55+00:00"
 }
